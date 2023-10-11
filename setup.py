@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="xnetwork",
-    version="1.0",
+    version="1.0.1",
     author="Filipi N. Silva and Cesar H. Comin",
-    author_email="filipi@iu.edu",
+    author_email="filsilva@iu.edu",
     description="Small python package to read .xnet (compleX NETwork format) files used in my other scripts.",
     long_description=long_description,
     long_description_content_type="text/markdown",

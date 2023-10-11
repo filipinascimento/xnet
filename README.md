@@ -136,7 +136,7 @@ Some attribute names are interpreted by certain software in different ways.
 
 ### Authors
 
-- Filipi N. Silva (filipi@iu.edu)
+- Filipi N. Silva (filipinascimento.github.io)
 - Cesar H. Comin
 
 ### License
