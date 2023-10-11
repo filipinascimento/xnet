@@ -1,6 +1,4 @@
-# README.md
-
-## xnetwork
+# XNET File format (xnetwork)
 
 `xnetwork` is a small python package that allows you to read `.xnet` files (compleX NETwork format), a format designed to easily handle graph data with multiple attributes.
 
